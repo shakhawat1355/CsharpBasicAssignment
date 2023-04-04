@@ -34,14 +34,21 @@ namespace C_BasicAssignment
         }
         public void No_3()
         {
-/*            checked
-            {
-                int a = int.MaxValue;
-                int b = 1;
-                int c = a + b; // This will cause an overflow
+            int a = int.MaxValue;
+            int b = 2;
 
-                Console.WriteLine($"a = {a}, b = {b}, c = {c}");
-            }*/
+            try
+            {
+                checked
+                {
+                    int c = a * b;
+                    Console.WriteLine(c);
+                }
+            }
+            catch (OverflowException e)
+            {
+                Console.WriteLine("Overflow occurred: {0}", e.Message);
+            }
         }
         public void No_4()
         {
