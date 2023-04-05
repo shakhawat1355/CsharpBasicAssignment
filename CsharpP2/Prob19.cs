@@ -9,7 +9,8 @@ using System.Threading;
 using System.Threading.Tasks;
 
 
-//Declare a list of int,string,double. Find out all list manipulation methods and implement them.
+//Declare a list of int,string,double.
+//Find out all list manipulation methods and implement them.
 
 namespace CsharpP2
 {

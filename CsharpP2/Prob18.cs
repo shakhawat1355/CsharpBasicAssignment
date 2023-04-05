@@ -5,7 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-//Declare a 2 class containing the same method. One method should be static. Now access the method from main class
+//Declare a 2 class containing the same method.
+//One method should be static. Now access the method from main class
 
 namespace CsharpP2
 {
