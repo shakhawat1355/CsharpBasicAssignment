@@ -4,6 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+//Declare a string and change some character of the string (use StringBuilder)
+//Find out all StringBuilder methods
+
 namespace CsharpP2
 {
     public class Prob23

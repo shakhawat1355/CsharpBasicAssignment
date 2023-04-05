@@ -7,6 +7,8 @@ using System.Threading.Tasks;
 
 namespace CsharpP2
 {
+    //Declare Enum.Convert a string to enum, int to enum, enum to string, enum to int
+
     public enum Color
     {
         Red,

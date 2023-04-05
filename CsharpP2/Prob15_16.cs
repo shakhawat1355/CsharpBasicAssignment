@@ -7,6 +7,10 @@ using System.Threading.Tasks;
 
 namespace CsharpP2
 {
+
+    //Declare arrays of size 15. Array type should be bool,char,int,long,double,string etc
+    //Insert dummy value to those arrays and print them.While printing skip index no 5 and print until index 10. (use for,while,foreach,break,continue)
+
     public class Prob15_16
     {
         // Declare an array of bool

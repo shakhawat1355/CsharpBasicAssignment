@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Declare datetime, timespan. Find all datetime manipulation methods.
+
 namespace CsharpP2
 {
     public class Prob21

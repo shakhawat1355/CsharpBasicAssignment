@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+//Declare string and find all types of string manipulation methods.
+
 namespace CsharpP2
 {
     public class Prob22

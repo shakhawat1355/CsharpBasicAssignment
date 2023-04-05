@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+//Declare an array of int,string,double. Find out all array manipulation methods and implement them.
+
 namespace CsharpP2
 {
     public class Prob20

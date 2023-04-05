@@ -8,6 +8,9 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
+
+//Declare a list of int,string,double. Find out all list manipulation methods and implement them.
+
 namespace CsharpP2
 {
     public class Prob19

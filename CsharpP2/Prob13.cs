@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+//Declare structure and print object (use method and properties)
 namespace CsharpP2
 {
     public class Prob13
